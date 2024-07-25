@@ -265,7 +265,7 @@ form input{
 .error-icon{
     position: absolute;
     left: 240px;
-    top: 35%;
+    top: 34%;
     /* top:50%; */
     transform: translateY(-50%);
 }
@@ -359,7 +359,7 @@ form input{
     font-size: 12px; 
     text-align: center; 
     padding-top: 1rem;
-
+    color: white;
 }
   .attribution a {
   color: hsl(228, 45%, 44%); 
